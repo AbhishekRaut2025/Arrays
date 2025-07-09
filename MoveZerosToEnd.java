@@ -43,5 +43,6 @@ public class MoveZerosToEnd {
         for (int num : numbers) {
             System.out.print(num + " ");
         }
+        sc.close();
     }
 }

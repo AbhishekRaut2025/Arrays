@@ -10,6 +10,7 @@ public class CheckDuplicates {
         if (n == 0) {
             System.out.println("The array is empty.");
             return;
+        
         }
         int[] numbers = new int[n];
         System.out.println("Enter array : ");

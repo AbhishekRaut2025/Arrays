@@ -29,5 +29,6 @@ public class leftRotateArray1 {
         for (int num : arr) {
             System.out.print(num + " ");
         }
+        sc.close();
     }
 }

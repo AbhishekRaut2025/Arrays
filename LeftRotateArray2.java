@@ -1,4 +1,4 @@
-import java.util.*;
+// import java.util.*;
 import java.util.Scanner;
 
 public class LeftRotateArray2 {
@@ -37,5 +37,6 @@ public class LeftRotateArray2 {
         for (int val : numbers) {
             System.out.print(val + " ");
         }
+        sc.close();
     }
 }
